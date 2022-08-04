@@ -3,11 +3,16 @@
 ### [Assignment](assignment.md)
 
 ## Project/Goals
-(fill in your description and goals here)
+
+In this project the goal is to go though the ETL process and build a database with various points of interest (POIs) information. 
+
 
 ## Process
-### (your step 1)
-### (your step 2)
+
+* Extract data using API requests from [Foursquare](https://developer.foursquare.com/) and [Yelp](https://www.yelp.com/developers/documentation/v3)
+* Process and organise data to fit the projects needs & requirments 
+* Move transformed Data into a created database 
+
 
 ## Results
 (fill in what you found about the comparative quality of API coverage in your chosen area)
